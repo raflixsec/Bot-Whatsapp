@@ -47,7 +47,7 @@ Run the Bot WhatsApp
 ## Special Thanks to
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [```Nayla Chan```](https://github.com/naylachan/)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [```Mhankbarbar```](https://github.com/MhankBarBar)
 
 ## Group
 * <a href="https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
