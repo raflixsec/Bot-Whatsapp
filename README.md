@@ -30,7 +30,7 @@ Install the dependencies:
 ```
 
 ### Usage
-Run the Bot WhatsApp
+Run the WhatsApp bot
 
 ```bash
 > npm start
